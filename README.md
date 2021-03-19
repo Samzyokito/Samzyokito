@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samuel Arthur
+- 👋 Hi, I’m @samzyokiito.
 - 👀 I’m interested in learning new things, working on projects and exploring new ideas.
 - 🌱 I’m currently learning PHP, Python ,Java script, WordPress, Angular, Ruby and more.
 - 💞️ I’m looking to collaborate on any project.
